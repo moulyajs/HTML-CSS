@@ -1,0 +1,25 @@
+.card {
+  color: #222222;
+  background: lightgrey;
+  width: 500px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  /*padding-top: 200px;
+  padding-right: 100px;*/
+  border: 8px solid #222222;
+  border-radius: 20px;
+}
+.first {
+  border: 1px solid #cfd9de;
+  color: #0f1419;
+  font-weight: bold;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 16px;
+  padding-left: 16px;
+
+  border-radius: 15px;
+}
